@@ -1,4 +1,4 @@
-package Aplication;
+package Modelo;
 
 public class SeguroDeVida implements Tributavel {
     @Override

@@ -1,4 +1,4 @@
-package Aplication;
+package Modelo;
 
 public interface Tributavel {
 
